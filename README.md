@@ -535,3 +535,4 @@ Please refer to our [wiki](https://github.com/snakers4/silero-models/wiki) and t
 
 Please use the "sponsor" button.
 "# speech2text" 
+"# speech2text" 
